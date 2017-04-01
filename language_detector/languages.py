@@ -26,6 +26,16 @@ LANGUAGES = [
             'einen', 'kann', 'dem'
         ]
     },
-    #  include the English language here
-    # HINT: https://en.wikipedia.org/wiki/Most_common_words_in_English
+    
+     {
+        'name': 'English',
+        'common_words': [
+            'the', 'be', 'to', 'of', 'a', 'and', 'in', 'that',
+            'have', 'I', 'it', 'for', 'not', 'on', 'with', 'he', 'as',
+            'you', 'do', 'at', 'this', 'but', 'his', 'by', 'from',
+            'them', 'we', 'say', 'her', 'she', 'or', 'an',
+            'will', 'my', 'one', 'all', 'there', 'would', 'be', 'their',
+            'what', 'so', 'up'
+        ]
+    }
 ]
